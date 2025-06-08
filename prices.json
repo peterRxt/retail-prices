@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Fresh Milk 1L",
+      "carrefour_price": "120 KES",
+      "naivas_price": "115 KES"
+    },
+    {
+      "name": "Brown Bread",
+      "carrefour_price": "70 KES",
+      "naivas_price": "75 KES"
+    }
+  ]
+}
